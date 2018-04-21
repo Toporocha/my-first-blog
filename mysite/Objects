@@ -1,3 +1,14 @@
+class Cat:
+  color = 'black'
+  age = '2'
+  mood = ''
+  owner = ''
+  def purr():
+    print('purr')
+    prit('mrrr')
+  def scratch():
+  def feed():
+
 color
 age
 mood
